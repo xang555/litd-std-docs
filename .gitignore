@@ -47,3 +47,6 @@ tmp/
 
 # Debug
 *.debug
+
+# mcp 
+.mcp.json
