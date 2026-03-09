@@ -69,7 +69,8 @@ description = "Company skills catalog"
   skills = [
     { name = "Git Workflow", file = "git-workflow.md", tags = ["git", "vcs"], required = true },
     { name = "IDE Setup", file = "ide-setup.md", tags = ["tools", "ide"], required = false },
-    { name = "CLI Commands", file = "cli-commands.md", tags = ["tools", "cli"], required = true }
+    { name = "CLI Commands", file = "cli-commands.md", tags = ["tools", "cli"], required = true },
+    { name = "Git Commit", file = "git-commit.md", tags = ["git", "conventional-commits", "workflow"], required = true }
   ]
 
   [categories.ai_assisted]
