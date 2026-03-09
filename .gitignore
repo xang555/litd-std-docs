@@ -1,0 +1,49 @@
+# Claude Code
+.claude/
+.claude-worktrees/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Build artifacts
+dist/
+build/
+*.log
+*.tmp
+
+# Dependencies
+node_modules/
+vendor/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Temporary files
+*.cache
+*.bak
+*.backup
+temp/
+tmp/
+
+# Editor
+*.sublime-project
+*.sublime-workspace
+
+# Debug
+*.debug
